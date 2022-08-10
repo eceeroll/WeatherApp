@@ -2,6 +2,5 @@
 Weather App in JavaScript with Open Weather API
 API link : https://openweathermap.org/current
 <hr>
-![Animation](https://user-images.githubusercontent.com/73228549/183938142-15e5f2a8-9069-41e3-b6bd-bcf3186acaa7.gif)
 
-
+![Animation](https://user-images.githubusercontent.com/73228549/183938331-0d89c0ca-a421-4157-b0e3-b9887bce760e.gif)
