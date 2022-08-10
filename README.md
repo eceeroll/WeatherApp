@@ -1,5 +1,5 @@
 # WeatherApp
-Weather App in JavaScript with Open Weather API
+Weather App in JavaScript with Open Weather API <br>
 API link : https://openweathermap.org/current
 <hr>
 
